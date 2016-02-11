@@ -1,0 +1,3 @@
+# CIS-194-S13
+I don't know what I'm doing!
+I'm trying to learn Haskell on my own and it's not going so well...
