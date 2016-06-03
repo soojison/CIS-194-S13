@@ -1,3 +1,2 @@
-# CIS-194-S13
-I don't know what I'm doing!
-I'm trying to learn Haskell on my own and it's not going so well...
+# Learning Haskell
+Was trying to learn Haskell using UPenn's CIS-194-S13 course, but now I'm using Learn You a Haskell tutorial
